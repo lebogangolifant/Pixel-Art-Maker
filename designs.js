@@ -2,9 +2,7 @@ function makeGrid() {
 	console.log("makeGrid is running!")
 
 	// Select size input
-
 	var canvas, cell, gridHeight, gridWidth, rows;
-
 	canvas = $('#pixel_canvas');
 	gridHeight = $('#input_height').val();
 	gridWidth = $('#input_width').val();
