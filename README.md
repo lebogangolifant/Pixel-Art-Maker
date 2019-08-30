@@ -9,7 +9,7 @@
 <h1>The project outcome:</h1>
 <p>Is to demonstrate understanding of JavaScript and HTML event listeners by developing an interface that allowed the user to create a table grid canvas and to paint each individual cell within that table using colors they choose from the color picker.</p>
 <h1>App Link:</h1>
-<p>https://Lebogango.github.io/Pixel-Art-Maker/</p>
+<p>https://lebogangolifant.github.io/Pixel-Art-Maker/</p>
   <h1>Pixel Art Example</h1>
 <img src="Google final challange.jpg" alt="Final Pixel Art Project">
 </body>
